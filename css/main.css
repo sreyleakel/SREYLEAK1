@@ -5,8 +5,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
-    background: teal;
+    height: 71vh;
+    background: #000;
 }
 
 .form-container{
