@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background: teal;
+}
+
+.form-container{
+    background: #fff;
+    width: 30%;
+    padding: 10px;
+    
+}
+
+.form-body{
+    width: 100%;
+}
+
+.form-input{
+    width: 80%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid rgb(223, 217, 217);
+}
